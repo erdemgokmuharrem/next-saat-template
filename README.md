@@ -288,8 +288,20 @@ MIT License - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ## 📞 Destek
 
 Sorularınız için:
-- GitHub Issues
+- [GitHub Issues](https://github.com/erdemgokmuharrem/next-saat-template/issues)
+- [GitHub Discussions](https://github.com/erdemgokmuharrem/next-saat-template/discussions)
 - Email: support@nextsaas.com
+
+## 🌟 GitHub Repository
+
+Bu proje [GitHub'da](https://github.com/erdemgokmuharrem/next-saat-template) açık kaynak olarak geliştirilmektedir.
+
+[![GitHub stars](https://img.shields.io/github/stars/erdemgokmuharrem/next-saat-template?style=social)](https://github.com/erdemgokmuharrem/next-saat-template)
+[![GitHub forks](https://img.shields.io/github/forks/erdemgokmuharrem/next-saat-template?style=social)](https://github.com/erdemgokmuharrem/next-saat-template)
+
+### ⭐ Star Verin!
+
+Bu projeyi beğendiyseniz, GitHub'da star vererek destek olabilirsiniz!
 
 ## 🙏 Teşekkürler
 
